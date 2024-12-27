@@ -1,6 +1,6 @@
 package Day1;
 import java.util.Scanner;
-public class Q6 {
+public class Xornumber {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter an integer: ");
