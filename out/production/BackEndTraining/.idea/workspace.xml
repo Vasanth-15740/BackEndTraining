@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="97191346-ff21-4980-9c50-dbdcebe5f960" name="Changes" comment="Day 2 task.">
+      <change afterPath="$PROJECT_DIR$/Day2/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2/OOPsAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2/OOPsCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2/OOPsCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day2/CountOnesInBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day2/CountOnesInBinary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BackEndTraining/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BackEndTraining/.idea/BackEndTraining.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BackEndTraining/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BackEndTraining/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BackEndTraining/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BackEndTraining/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BackEndTraining/Day1/ArithmeticOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BackEndTraining/Day1/HelloJava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BackEndTraining/Day1/PrimitiveType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BackEndTraining/Day1/Q5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BackEndTraining/Day1/Q6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BackEndTraining/Day1/Q7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BackEndTraining/Day1/floatConversion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BackEndTraining/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Vasanth-15740/BackEndTraining.git&quot;,
+    &quot;accountId&quot;: &quot;3958a23b-25d3-4b18-8f78-0b4bc78acbcc&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2qkXJvhNOQbNiP4If3mxa1Px00s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.ArithmeticOperations.executor": "Debug",
+    "Application.BankAccount.executor": "Run",
+    "Application.CountOnesInBinary.executor": "Run",
+    "Application.ExitLoop.executor": "Run",
+    "Application.Factorial.executor": "Debug",
+    "Application.HelloJava.executor": "Run",
+    "Application.LargestOfThreeNumbers.executor": "Run",
+    "Application.LeapYear.executor": "Run",
+    "Application.OOPsAnimal.executor": "Run",
+    "Application.OOPsCalculator.executor": "Run",
+    "Application.OOPsCar.executor": "Run",
+    "Application.PrimeOrNot.executor": "Run",
+    "Application.PrimitiveType.executor": "Run",
+    "Application.PyramidPattern.executor": "Run",
+    "Application.Q5.executor": "Run",
+    "Application.Q6.executor": "Run",
+    "Application.Q7.executor": "Debug",
+    "Application.ReverseNumber.executor": "Run",
+    "Application.SimpleCalculator.executor": "Run",
+    "Application.SkipMultiple.executor": "Run",
+    "Application.Swap.executor": "Run",
+    "Application.floatConversion.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/DonateForNeed",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.OOPsCalculator">
+    <configuration name="BankAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day2.BankAccount" />
+      <module name="BackEndTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExitLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day2.ExitLoop" />
+      <module name="BackEndTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOPsAnimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day2.OOPsAnimal" />
+      <module name="BackEndTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOPsCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day2.OOPsCalculator" />
+      <module name="BackEndTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOPsCar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day2.OOPsCar" />
+      <module name="BackEndTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OOPsCalculator" />
+        <item itemvalue="Application.OOPsAnimal" />
+        <item itemvalue="Application.BankAccount" />
+        <item itemvalue="Application.OOPsCar" />
+        <item itemvalue="Application.ExitLoop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97191346-ff21-4980-9c50-dbdcebe5f960" name="Changes" comment="" />
+      <created>1735207479947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735207479947</updated>
+      <workItem from="1735207482427" duration="4158000" />
+      <workItem from="1735275391098" duration="92000" />
+      <workItem from="1735279056404" duration="621000" />
+      <workItem from="1735280442127" duration="2342000" />
+      <workItem from="1735286561657" duration="6357000" />
+      <workItem from="1735293294729" duration="1668000" />
+      <workItem from="1735302161533" duration="630000" />
+      <workItem from="1735360772726" duration="118000" />
+      <workItem from="1735360955142" duration="465000" />
+      <workItem from="1735398154660" duration="1008000" />
+      <workItem from="1735455148975" duration="2296000" />
+      <workItem from="1735467016382" duration="239000" />
+      <workItem from="1735467269439" duration="2150000" />
+      <workItem from="1735469452125" duration="481000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added PrimitiveType.java">
+      <option name="closed" value="true" />
+      <created>1735208357010</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735208357010</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added newly">
+      <option name="closed" value="true" />
+      <created>1735219105928</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735219105928</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Arithmeticoperations">
+      <option name="closed" value="true" />
+      <created>1735220087725</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735220087725</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Day 1 task.">
+      <option name="closed" value="true" />
+      <created>1735221486922</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735221486922</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Day 2 task.">
+      <option name="closed" value="true" />
+      <created>1735302250209</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735302250209</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added PrimitiveType.java" />
+    <MESSAGE value="Added newly" />
+    <MESSAGE value="Arithmeticoperations" />
+    <MESSAGE value="Day 1 task." />
+    <MESSAGE value="Day 2 task." />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 2 task." />
+  </component>
+</project>

@@ -3,16 +3,19 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 class Book {
+
     String title;
     String author;
     String isbn;
     int copies;
+
     public Book(String title, String author, String isbn, int copies) {
         this.title = title;
         this.author = author;
         this.isbn = isbn;
         this.copies = copies;
     }
+
     public void borrowBook() {
         if (copies > 0) {
             copies--;
@@ -20,13 +23,16 @@ class Book {
             System.out.println("Sorry, '" + title + "' is not available.");
         }
     }
+
     public void returnBook() {
         copies++;
     }
+
     public void printBookDetails() {
         System.out.println(title + " by " + author + " (ISBN: " + isbn + ") - Copies available: " + copies);
     }
 }
+
 class Member {
     String name;
     String memberId;
