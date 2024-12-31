@@ -1,7 +1,7 @@
+//Implement a simple banking system where users can open accounts, deposit money, withdraw money, and check balance using OOP.
+
 package Day2;
-
 import java.util.Scanner;
-
 class Account {
     String accountHolderName;
     double balance;
