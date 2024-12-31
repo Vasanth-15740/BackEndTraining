@@ -2,9 +2,7 @@ package Day3;
 
 public class AbstarctShape {
 
-    public void CalculateArea(){
-        System.out.println("Area of shape is :");
-    }
+    public void CalculateArea()
 
     public static class Circle extends AbstarctShape{
          double r;
