@@ -1,8 +1,8 @@
 package Day5.GenericClass;
 
 public class Pair<K,V> {
-    private K key;
-    private V value;
+    K key;
+    V value;
 
     public Pair(K key, V value) {
         this.key = key;

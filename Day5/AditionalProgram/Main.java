@@ -6,7 +6,7 @@ import Day5.AditionalProgram.Utilities.Priority;
 public class Main {
     public static void main(String[] args) {
 
-        Container<Integer> intContainer = new Container<>(123); // Autoboxing int to Integer
+        Container<Integer> intContainer = new Container<>(123);
         System.out.println("Integer value: " + intContainer.getItem());
 
 
