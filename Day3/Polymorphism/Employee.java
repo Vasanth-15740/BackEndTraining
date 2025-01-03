@@ -5,7 +5,7 @@ package Day3.Polymorphism;
 public class Employee {
 
     int amount;
-    Employee(int amount){
+    public Employee(int amount){
         this.amount=amount;
     }
 
