@@ -30,6 +30,6 @@ public class LangClassProblem {
             l++;
         }
         long endtime = System.currentTimeMillis();
-        System.out.println(endtime-starttime);
+        System.out.println(starttime-endtime);
     }
 }

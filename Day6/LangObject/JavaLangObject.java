@@ -8,7 +8,7 @@ public class JavaLangObject {
         this.n=n;
         this.s=s;
     }
-
+    
     @Override
     public String toString(){
         return " value of n: "+ n +" \n String data: "+s;
