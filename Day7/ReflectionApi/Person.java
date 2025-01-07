@@ -5,20 +5,20 @@ public class Person {
     public int age;
     public String Department;
 
-    Person(){
-    }
-
     Person(String name,int age,String Department){
         this.name = name;
         this.age = age;
         this.Department = Department;
     }
+
     public String getName(){
         return name;
     }
+
     public int getAge(){
         return age;
     }
+
     public String Department(){
         return Department;
     }

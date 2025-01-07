@@ -16,7 +16,6 @@ public class ReflectionApi {
                 System.out.println(f[i]);
             }
 
-
             Method m[] =c.getDeclaredMethods();
             for (int i = 0; i < m.length ; i++) {
                 System.out.println(m[i]);
@@ -24,7 +23,6 @@ public class ReflectionApi {
                     m[i].invoke(c.newInstance(),"hari",21,"CSE7");
                 }
             }
-
         }
         catch (Exception e){
             System.out.println(e);
