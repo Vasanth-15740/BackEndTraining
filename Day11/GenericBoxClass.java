@@ -18,7 +18,7 @@ public class GenericBoxClass<T> {
 
     public static void main(String[] args) {
         GenericBoxClass<String>str=new GenericBoxClass<>();
-        str.setItem("Gnanaprakash");
+        str.setItem("VasanthKumar");
         str.Print();
         System.out.println(str.Type(String.class));
         GenericBoxClass<Integer>val=new GenericBoxClass<>();

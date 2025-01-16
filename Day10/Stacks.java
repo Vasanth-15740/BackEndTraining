@@ -18,7 +18,6 @@ public class Stacks {
             else{
                 ll.pop();
             }
-
         }
         for(String ans:ll){
             System.out.print(ans+" ");

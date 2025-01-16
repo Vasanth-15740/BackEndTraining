@@ -8,7 +8,9 @@ import java.util.regex.Pattern;
 public class EmailValidator {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
+
         String str="^[A-Za-z0-9]+([.-_][A-Za-z0-9]+)*@[A-Za-z0-9.-]+\\.(com|org|net)$";
+
         List<String>string=List.of(
                 "user@example.com",
                 "user.name@domain.org",
