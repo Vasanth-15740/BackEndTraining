@@ -8,7 +8,7 @@ public class FactorialCalculator {
         if (n == 0 || n == 1) {
             return 1;
         }
-        long fact = 1;  // Use long for larger results
+        long fact = 1; 
         for (int i = 2; i <= n; i++) {
             fact *= i;
         }

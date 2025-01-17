@@ -15,26 +15,26 @@ public class PrimeCheckerTest {
     @Test
     public void testNonPrimeNumbers() {
         PrimeChecker pc = new PrimeChecker();
-        Assert.assertFalse(pc.isPrime(4));  // 4 is not prime
-        Assert.assertFalse( pc.isPrime(6));  // 6 is not prime
-        Assert.assertFalse( pc.isPrime(9));  // 9 is not prime
+        Assert.assertFalse(pc.isPrime(4)); 
+        Assert.assertFalse( pc.isPrime(6)); 
+        Assert.assertFalse( pc.isPrime(9));  
     }
     @Test
     public void testEdgeCases() {
         PrimeChecker pc = new PrimeChecker();
-        Assert.assertFalse( pc.isPrime(0));  // 0 is not prime
-        Assert.assertFalse( pc.isPrime(1));  // 1 is not prime
-        Assert.assertFalse(pc.isPrime(-5));  // Negative number is not prime
+        Assert.assertFalse( pc.isPrime(0)); 
+        Assert.assertFalse( pc.isPrime(1)); 
+        Assert.assertFalse(pc.isPrime(-5));  
     }
     @Test
     public void testLargePrime() {
         PrimeChecker pc = new PrimeChecker();
-        Assert.assertTrue( pc.isPrime(104729));  // A large prime number
+        Assert.assertTrue( pc.isPrime(104729));  
     }
     @Test
     public void testLargeNonPrime() {
         PrimeChecker pc = new PrimeChecker();
-        Assert.assertFalse( pc.isPrime(1000000));  // Not a prime
+        Assert.assertFalse( pc.isPrime(1000000));  
     }
 }
 
