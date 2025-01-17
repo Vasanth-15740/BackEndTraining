@@ -4,8 +4,6 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.Statement;
 
-import static java.lang.Class.forName;
-
 public class SqlJdbc {
     public static void main(String[] args) {
         Connection con = null;
@@ -16,7 +14,7 @@ public class SqlJdbc {
             System.out.println(con);
             smt = con.createStatement();
             System.out.println(smt);
-            String []sql={"insert into mark values(1,\"Nisha\",98)","insert into mark values(2,\"Adhithya \",95)","insert into mark values(3,\"Jackson\",93)",};
+            String []sql={"insert into mark values(1,\"Nisha\",98)","insert into mark values(2,\"Adhithya \",95)","insert into mark values(3,\"Jackson\",93)"};
             for (int i = 0; i < sql.length; i++) {
                 int h = smt.executeUpdate(sql[i]);
                 System.out.println(h);
