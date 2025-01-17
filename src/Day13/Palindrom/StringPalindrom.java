@@ -1,4 +1,4 @@
-package Day13.PalindromString;
+package Day13.Palindrom;
 
 public class StringPalindrom {
     public boolean isPalindrom(String str) {

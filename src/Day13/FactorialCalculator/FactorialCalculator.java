@@ -1,4 +1,4 @@
-package Day13;
+package Day13.FactorialCalculator;
 
 public class FactorialCalculator {
     public long factorial(int n) {

@@ -1,4 +1,4 @@
-package Day13.TestUnits;
+package Day13.PrimeCheck;
 import org.junit.Assert;
 import org.junit.Test;
 

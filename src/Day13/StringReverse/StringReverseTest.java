@@ -1,4 +1,4 @@
-package Day13.String;
+package Day13.StringReverse;
 import org.junit.Test;
 import org.junit.Assert;
 

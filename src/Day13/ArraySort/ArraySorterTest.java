@@ -1,4 +1,4 @@
-package Day13;
+package Day13.ArraySort;
 
 import org.junit.Assert;
 import org.junit.Test;

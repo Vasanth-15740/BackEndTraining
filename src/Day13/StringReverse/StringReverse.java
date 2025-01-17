@@ -1,4 +1,4 @@
-package Day13.String;
+package Day13.StringReverse;
 
 public class StringReverse {  public String reverseString(String str) {
     if (str == null) {

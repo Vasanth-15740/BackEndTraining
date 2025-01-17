@@ -1,4 +1,4 @@
-package Day13.Prime;
+package Day13.PrimeCheck;
 
 public class PrimeChecker {
     public boolean isPrime(int n){

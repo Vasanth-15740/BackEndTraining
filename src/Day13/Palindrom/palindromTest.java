@@ -1,4 +1,4 @@
-package Day13;
+package Day13.Palindrom;
 
 import org.junit.Assert;
 import org.junit.Test;
