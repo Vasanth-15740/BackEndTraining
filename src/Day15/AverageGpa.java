@@ -17,10 +17,7 @@ class Student {
 
 public class AverageGpa {
     public static double calculateAverageGpa(List<Student> students) {
-        return students.stream()
-                .mapToDouble(Student::getGpa)
-                .average()
-                .orElse(0.0);
+        return students.stream().mapToDouble(Student::getGpa).average().orElse(0.0);
     }
 
     public static void main(String[] args) {
