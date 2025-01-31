@@ -1,5 +1,6 @@
 //Find the Top Scorer in Each Department
 //Write a method that groups students by department and finds the top scorer in each department using Collectors.groupingBy and maxBy.
+
 package Day15;
 import java.util.*;
 import java.util.stream.Collectors;
@@ -33,7 +34,7 @@ public class TopScore {
 
         students.stream()
                 .collect(Collectors.groupingBy(
-                        s -> s.department,
+                s -> s.department,
                         Collectors.collectingAndThen(
                                 Collectors.maxBy(Comparator.comparingDouble(s -> s.gpa)),
                                 Optional::get
