@@ -3,11 +3,17 @@
 ## Overview
 This is a simple **Student Management System** implemented in Java.
 ->A simple Java console program to manage student records of id,name,age,grade and email .
+
 -> The project contains CRUD operations (Create, Read, Update, Delete) without using a database.
+
 -> Object-Oriented Programming (OOP): Create a Student class.
+
 -> Collections Framework (ArrayList) for storing student records.
+
 -> Exception Handling for invalid inputs.
+
 -> File Handling for storing and retrieving data.
+
 -> The program includes with the Java 8 features.
 
 ## Requirements
