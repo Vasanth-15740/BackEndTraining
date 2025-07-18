@@ -8,7 +8,8 @@ public class BiConsumerSum {
         bi.accept(3,5);
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         BiConsumerSum s = new BiConsumerSum();
     }
 }

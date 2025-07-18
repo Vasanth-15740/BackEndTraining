@@ -20,6 +20,7 @@ class Student1 {
 }
 
 public class NameStartingLetters {
+
     public static List<Student1> findStudentsByLetter(List<Student1> students, char letter) {
         return students.stream().filter(student -> student.getName().startsWith(String.valueOf(letter))).collect(Collectors.toList());
     }

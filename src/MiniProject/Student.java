@@ -70,6 +70,7 @@ public class Student {
         }
     }
 
+
     public static void searchGrade() {
         try {
         System.out.println("Enter required Grade:");
@@ -119,6 +120,7 @@ public class Student {
             System.out.println("Enter a valid Id");
         }
     }
+
 
     public static void deleteid(){
         try {

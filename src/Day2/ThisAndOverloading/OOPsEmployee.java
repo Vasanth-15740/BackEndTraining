@@ -5,6 +5,7 @@ public class OOPsEmployee {
     private int id;
     private String name;
     private int salary;
+
     public OOPsEmployee(int id, String name, int salary) {
         this.id = id;
         this.name = name;

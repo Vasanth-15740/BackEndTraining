@@ -1,5 +1,6 @@
 package Day20;
 
+import java.lang.invoke.MethodHandle;
 import java.time.Duration;
 import java.time.LocalDateTime;
 
@@ -26,9 +27,7 @@ public class Events {
         return duration;
     }
 
-    public void setDuration(Duration duration) {
-        this.duration = duration;
-    }
+    public void setDuration(Duration duration) {this.duration = duration;}
 
     public LocalDateTime getDateandTime() {
         return dateandTime;

@@ -19,6 +19,7 @@ public class FilterEvenNumbers {
 
     public void Prediction(List<Integer> l, Predicate<Integer> predicate) {
         List<Integer> l2 = new ArrayList<>();
+
         for (Integer i : l) {
             if (predicate.test(i)) {
                 l2.add(i);

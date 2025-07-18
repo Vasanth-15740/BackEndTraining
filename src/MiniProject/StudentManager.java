@@ -8,7 +8,7 @@ public class StudentManager {
         Scanner sc = new Scanner(System.in);
 
         while(true){
-            System.out.println("1.Retrive Stored Records  ");
+            System.out.println("1.Retrive Stored Records ");
             System.out.println("2.Add Data ");
             System.out.println("3.Update Details ");
             System.out.println("4.Delete Records ");
