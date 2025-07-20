@@ -6,7 +6,7 @@ public class Sentence {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        String str = sc.nextLine();
+        String str = "vasanth kumar";
         String[] words = str.split(" ");
         System.out.println("Length"+words.length);
         for (int i = str.length()-1; i>=0 ; i--) {

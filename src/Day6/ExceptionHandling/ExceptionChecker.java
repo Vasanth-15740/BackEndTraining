@@ -10,6 +10,7 @@ public class ExceptionChecker {
 
         try{
             int n = Integer.parseInt(a)+Integer.parseInt(b);
+            System.out.println(n);
         }
 
         catch (ArithmeticException e){

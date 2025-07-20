@@ -1,4 +1,5 @@
-//Create an abstract class Shape with an abstract method calculateArea(). Derive classes Circle and Rectangle and implement the calculateArea() method in both.
+//Create an abstract class Shape with an abstract method calculateArea().
+// Derive classes Circle and Rectangle and implement the calculateArea() method in both.
 
 package Day3.AbstractClasses;
 abstract class AShape{
@@ -11,7 +12,7 @@ class ACircle extends AShape{
     }
 }
 
-class ARectangle {
+class ARectangle extends AShape{
     void calculateArea() {
         System.out.println("Area of Rectangle");
     }
