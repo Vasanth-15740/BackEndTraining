@@ -11,5 +11,5 @@ public class overloading {
         overloading vs = new overloading();
         vs.major(2);
         vs.major(4.234);
-    }
+    } 
 }
